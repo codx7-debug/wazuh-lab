@@ -1,4 +1,3 @@
-﻿# wazuh-lab
 # Wazuh SIEM - SOC Lab
 
 > **End-to-End Security Telemetry Pipeline: From Event Collection to Detection & Investigation**
